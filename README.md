@@ -1,6 +1,6 @@
 # ChatBot
 
-The following is a readme for a Python chatbot that can be modified for any use case. The chatbot uses the Google Custom Search API to search the internet for answers to user-inputted questions.
+The following readme explains a Python chatbot that can be modified for any use case. The chatbot uses the Google Custom Search API to search the internet for answers to user-inputted questions.
 
 # Getting Started
 
